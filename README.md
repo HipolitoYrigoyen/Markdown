@@ -9,8 +9,6 @@
 
 *Aunque en realidad Markdown también se considera un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible, así que para simplificar puedes considerar Markdown como un método de escritura. De cara al usuario final no hay ninguna diferencia, por ejemplo este artículo acerca de cómo funciona wise está escrito en Markdown, y sin embargo ves que está perfectamente formateado. Este método te permitirá añadir formatos tales como negritas, cursivas o enlaces, utilizando simplemente texto plano, lo que hará de tu escritura algo más simple y eficiente al evitar distracciones.*
 
-![images](https://github.com/user-attachments/assets/6e0a7191-1153-4abb-99f6-65833cc8581e)
-
 
 # ¿Para qué sirve Markdown?
 
