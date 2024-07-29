@@ -38,14 +38,7 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 
 # GUIA ELEMENTOS DE LINEA
 
-Markdown	Resultado
-
-*cursiva*	---> cursiva
-_cursiva_	---> cursiva
-**negrita**	--->negrita
-__negrita__	--->negrita
-***cursiva y negrita***	--->cursiva y negrita
-___cursiva y negrita___	--->cursiva y negrita
+![imagen](https://github.com/user-attachments/assets/818b3849-d275-4e58-8ed4-0bf233d53031)
 
 
 
